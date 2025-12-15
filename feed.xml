@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>test</title>
+    <link href="https://tic4tac.github.io/test/feed.xml" rel="self" />
+    <link href="https://tic4tac.github.io/test" />
+    <updated>2025-12-15T22:58:12+00:00</updated>
+    <author>
+        <name>Test</name>
+    </author>
+    <id>https://tic4tac.github.io/test</id>
+
+    <entry>
+        <title>Test site</title>
+        <author>
+            <name>Test</name>
+        </author>
+        <link href="https://tic4tac.github.io/test/text.html"/>
+        <id>https://tic4tac.github.io/test/text.html</id>
+
+        <updated>2025-12-15T22:30:59+00:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    🖕 text yellow italics underlined 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h6 class="align-center">🖕</h6>
+<p class="align-center"><span style="color: #f1c40f;"><strong>text <span style="color: #f1c40f;">yellow <em>italics underlined <a></a></em></span></strong></span></p>
+            ]]>
+        </content>
+    </entry>
+</feed>
