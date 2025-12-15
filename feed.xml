@@ -3,7 +3,7 @@
     <title>test</title>
     <link href="https://tic4tac.github.io/test/feed.xml" rel="self" />
     <link href="https://tic4tac.github.io/test" />
-    <updated>2025-12-15T22:58:12+00:00</updated>
+    <updated>2025-12-15T23:05:06+00:00</updated>
     <author>
         <name>Test</name>
     </author>
@@ -25,7 +25,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <h6 class="align-center">🖕</h6>
+                <p class="align-center">🖕</p>
 <p class="align-center"><span style="color: #f1c40f;"><strong>text <span style="color: #f1c40f;">yellow <em>italics underlined <a></a></em></span></strong></span></p>
             ]]>
         </content>

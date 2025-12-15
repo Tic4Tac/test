@@ -14,14 +14,14 @@
             "url": "https://tic4tac.github.io/test/text.html",
             "title": "Test site",
             "summary": "🖕 text yellow italics underlined ",
-            "content_html": "<h6 class=\"align-center\">🖕</h6>\n<p class=\"align-center\"><span style=\"color: #f1c40f;\"><strong>text <span style=\"color: #f1c40f;\">yellow <em>italics underlined <a></a></em></span></strong></span></p>",
+            "content_html": "<p class=\"align-center\">🖕</p>\n<p class=\"align-center\"><span style=\"color: #f1c40f;\"><strong>text <span style=\"color: #f1c40f;\">yellow <em>italics underlined <a></a></em></span></strong></span></p>",
             "author": {
                 "name": "Test"
             },
             "tags": [
             ],
             "date_published": "2025-12-15T22:30:59+00:00",
-            "date_modified": "2025-12-15T22:58:12+00:00"
+            "date_modified": "2025-12-15T23:05:06+00:00"
         }
     ]
 }
